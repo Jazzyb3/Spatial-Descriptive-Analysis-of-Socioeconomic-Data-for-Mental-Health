@@ -1,6 +1,6 @@
 # Spatial Exploration and Descriptive Analysis of Survey, Crime, and Census Data for Mental Health Research
 
-**Authors:** Jasmine (Jamie) Baldwin, Yvonne Yang
+**Authors:** Jasmine Baldwin, Yvonne Yang
 **Institution:** Southern Methodist University
 **Tools:** ArcGIS Pro, R / R Shiny
 
