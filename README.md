@@ -68,7 +68,6 @@ Built with `shiny`, `shinydashboard`, `plotly`, `reactable`, `scales`, and `purr
 
 ## Links
 
-- ArcGIS Web Map: https://arcg.is/1enrTe1
 - ArcGIS Web Map Application: https://arcg.is/njvaL1
 - R Shiny Dashboard: https://yvonne6341yang.shinyapps.io/surveyexplorerfinal/
 
